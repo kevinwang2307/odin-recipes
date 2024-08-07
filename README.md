@@ -1,1 +1,1 @@
-# odin-recipes
+# italian-recipes
